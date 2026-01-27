@@ -1,0 +1,24 @@
+{
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "Criado a partir de estudos",
+  "homepage": "https://github.com/404DeleteUser/TabNews#readme",
+  "bugs": {
+    "url": "https://github.com/404DeleteUser/TabNews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404DeleteUser/TabNews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
